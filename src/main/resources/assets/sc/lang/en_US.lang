@@ -1,0 +1,13 @@
+item.steel_ingot.name=Steel Ingot
+item.duck_bill_float.name=Duck Bill Float
+tile.block_turbine.name=Turbine Housing
+
+
+
+itemGroup.tabSteel=SteelCraft
+
+achievement.sc_install=You've been installed!
+achievement.sc_install.desc=Thank you for installing SteelCraft made by DuckCreeper!
+
+achievement.sc_EngineerTrainee= EngineerTrainee
+achievemtn.sc_EngineerTrainee.desc= Smelt you first Steel Ore!

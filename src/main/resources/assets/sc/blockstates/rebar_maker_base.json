@@ -1,0 +1,8 @@
+{
+    "variants": {
+        "facing=north": {"model": "sc:rebar_maker_base"},
+        "facing=south": { "model": "sc:rebar_maker_base", "y": 180},
+        "facing=east": { "model": "sc:rebar_maker_base", "y": 90},
+        "facing=west": { "model": "sc:rebar_maker_base", "y": 270}
+    }
+}
